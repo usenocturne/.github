@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A The most advanced Spotify Car Thing mod - Restore functionality to your Spotify Car Thing!</h4>
+<h4 align="center">The most advanced Spotify Car Thing mod - Restore functionality to your Spotify Car Thing!</h4>
 
 <p align="center">
   <a href="https://github.com/usenocturne/ui">UI</a> •
