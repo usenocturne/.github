@@ -9,7 +9,7 @@
 <h4 align="center">The most advanced Spotify Car Thing mod - Restore functionality to your Spotify Car Thing!</h4>
 
 <p align="center">
-  <a href="https://github.com/usenocturne/ui">UI</a> •
-  <a href="https://github.com/usenocturne/image">Image Builder</a> •
+  <a href="https://github.com/usenocturne/nocturne-ui">UI</a> •
+  <a href="https://github.com/usenocturne/nocturne-image">Image Builder</a> •
   <a href="https://github.com/usenocturne/nocturned">Local Daemon</a>
 </p>
