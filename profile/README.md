@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/usenocturne/nocturne-ui">UI</a> •
-  <a href="https://github.com/usenocturne/nocturne-image">Image Builder</a> •
+  <a href="https://github.com/usenocturne/nocturne-image">Image</a> •
+  <a href="https://github.com/usenocturne/nocturne-connector">Pi Image</a> •
   <a href="https://github.com/usenocturne/nocturned">Local Daemon</a>
 </p>
