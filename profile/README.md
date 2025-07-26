@@ -10,11 +10,11 @@
 
 <p align="center">
   <a href="https://github.com/usenocturne/nocturne">Image</a> •
-  <a href="https://github.com/usenocturne/nocturne-ui">UI</a> •
   <a href="https://github.com/usenocturne/nocturne-connector">Connector</a> •
+  <a href="https://github.com/usenocturne/nocturne-ui">UI</a> •
   <a href="https://github.com/usenocturne/nocturned">Daemon</a>
 </p>
 
 <br>
 
-<img src="https://usenocturne.com/images/nocturne.png" alt="Nocturne screenshot">
+<p align="center"><img width=500 src="https://usenocturne.com/images/nocturne.png" alt="Nocturne screenshot"></p>
