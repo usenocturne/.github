@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">The most advanced custom firmware for the Spotify Car Thing.</h4>
+<p align="center">The most advanced custom firmware for the Spotify Car Thing.</p>
 
 <p align="center">
   <a href="https://github.com/usenocturne/nocturne">Image</a> •
